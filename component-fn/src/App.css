@@ -1,0 +1,48 @@
+.counterFn__container{
+  text-align: center;
+}
+.StockFn__container {
+  text-align: center;
+}
+.StockFn__container button {
+  border: 1px solid black;
+  gap: 10%;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 5px 10px;
+}
+.counterFn__container button {
+  border: 1px solid black;
+  gap: 10%;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 5px 10px;
+}
+nav {
+  text-align: center;
+}
+nav button {
+  margin: 0 2px;
+  padding: 5px 10px;
+  background-color: transparent;
+}
+nav button:hover {
+  box-shadow: 1px 1px 3px black;
+  cursor: pointer;
+}
+ul {
+  padding: 0;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:100);
+
+
+h1 {
+  font: 2em 'Roboto', sans-serif;
+  margin-bottom: 40px;
+}
+
+.app__title {
+  text-align: center;
+  font-size: 18px;
+}
